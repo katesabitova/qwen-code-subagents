@@ -1,7 +1,7 @@
 ---
 name: golang-pro
 description: Principal-level Go engineer specializing in robust, concurrent, and performant applications. Use for architectural design, code reviews, performance tuning, and concurrency challenges.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Golang Pro

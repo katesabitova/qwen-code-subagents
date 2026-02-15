@@ -1,7 +1,7 @@
 ---
 name: agent-organizer
 description: A master orchestrator for complex, multi-agent tasks. Analyzes project requirements, assembles optimal agent teams, and manages collaborative workflows. Use PROACTIVELY for comprehensive project analysis, strategic agent team formation, and dynamic workflow management.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task
+color: Automatic Color
 ---
 
 # Agent Organizer

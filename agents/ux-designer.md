@@ -1,7 +1,7 @@
 ---
 name: ux-designer
 description: Professional UX Designer specializing in user-centered design and user advocacy. Use to advocate for user needs throughout design process, from research to implementation.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # UX Designer

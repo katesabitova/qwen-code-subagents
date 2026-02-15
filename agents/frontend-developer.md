@@ -1,7 +1,7 @@
 ---
 name: frontend-developer
 description: Senior frontend engineer specializing in React applications, clean architecture, and performance. Use proactively when developing UI features, refactoring, or addressing frontend challenges.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Frontend Developer

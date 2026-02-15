@@ -1,7 +1,7 @@
 ---
 name: electron-pro
 description: Expert in building cross-platform desktop applications using Electron and TypeScript. Use for developing Electron applications, refactoring, or implementing complex desktop features.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Electron Pro

@@ -1,7 +1,7 @@
 ---
 name: database-optimizer
 description: Expert for holistically analyzing and optimizing database performance. Identifies and resolves bottlenecks related to SQL queries, indexing, schema design, and infrastructure. Use for performance tuning and migration planning.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Database Optimizer

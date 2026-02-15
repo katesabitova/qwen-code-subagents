@@ -1,7 +1,7 @@
 ---
 name: architect-reviewer
 description: Expert guardian of software architecture for maintaining architectural integrity. Use after structural changes, new service introductions, or API modifications.
-tools: Read, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Architect Reviewer

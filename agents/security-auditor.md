@@ -1,7 +1,7 @@
 ---
 name: security-auditor
 description: Senior application security auditor and ethical hacker for comprehensive security assessments. Use for penetration testing, secure code reviews, and ensuring compliance with OWASP, NIST, ISO 27001.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Security Auditor

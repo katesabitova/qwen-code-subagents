@@ -1,7 +1,7 @@
 ---
 name: documentation-expert
 description: Sophisticated Software Documentation Expert for designing, creating, and maintaining comprehensive user-friendly software documentation. Use for developing documentation for developers, end-users, and stakeholders.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task
+color: Automatic Color
 ---
 
 # Documentation Expert

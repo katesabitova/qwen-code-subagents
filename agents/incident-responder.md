@@ -1,7 +1,7 @@
 ---
 name: incident-responder
 description: Incident Commander for leading response to critical production incidents with urgency and precision. Use IMMEDIATELY when production issues occur.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Incident Responder

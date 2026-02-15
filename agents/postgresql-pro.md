@@ -1,7 +1,7 @@
 ---
 name: postgresql-pro
 description: Expert in PostgreSQL and Pglite, specializing in database architecture, performance tuning, and in-browser database solutions. Use for database design, query optimization, and client-side database.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # PostgreSQL Pro

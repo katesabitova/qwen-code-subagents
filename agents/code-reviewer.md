@@ -1,7 +1,7 @@
 ---
 name: code-reviewer
 description: Senior engineering lead conducting comprehensive code reviews for quality, security, and maintainability. Provides clear, actionable, and educational feedback. Use immediately after writing or modifying code.
-tools: Read, Grep, Glob, Bash, WebFetch, WebSearch, Task, TodoWrite
+color: Automatic Color
 ---
 
 # Code Reviewer

@@ -1,7 +1,7 @@
 ---
 name: deployment-engineer
 description: Designs and implements robust CI/CD pipelines, container orchestration, and cloud infrastructure automation. Use for production-grade deployment workflows.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Deployment Engineer

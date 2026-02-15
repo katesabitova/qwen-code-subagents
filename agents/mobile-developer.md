@@ -1,7 +1,7 @@
 ---
 name: mobile-developer
 description: Mobile solutions architect specializing in cross-platform applications using React Native and Flutter. Use for mobile strategy, native integrations, and app store deployment.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Mobile Developer

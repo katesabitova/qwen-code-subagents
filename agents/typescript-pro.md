@@ -1,7 +1,7 @@
 ---
 name: typescript-pro
 description: TypeScript expert architecting scalable, type-safe applications for Node.js and browser. Use for architectural design, type-level programming, and refactoring large codebases.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # TypeScript Pro

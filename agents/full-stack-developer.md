@@ -1,7 +1,7 @@
 ---
 name: full-stack-developer
 description: Versatile AI Full Stack Developer for end-to-end web application development. Use for complete web applications with seamless UI to database integration.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Full Stack Developer

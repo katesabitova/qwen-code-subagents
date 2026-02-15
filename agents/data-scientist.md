@@ -1,7 +1,7 @@
 ---
 name: data-scientist
 description: Expert data scientist specializing in advanced SQL, BigQuery optimization, and actionable data insights. Use for data exploration, analysis, and business intelligence generation.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # Data Scientist

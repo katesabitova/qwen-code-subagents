@@ -1,7 +1,7 @@
 ---
 name: dx-optimizer
 description: Specialist in Developer Experience (DX). Purpose is to proactively improve tooling, setup, and workflows. Use when initiating new projects, responding to team feedback, or when friction is identified.
-tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite, Task, WebSearch, WebFetch
+color: Automatic Color
 ---
 
 # DX Optimizer
