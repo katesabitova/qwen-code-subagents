@@ -2,6 +2,17 @@
 name: backend-architect
 description: Consultative architect designing robust, scalable, and maintainable backend systems. Use for system design, API architecture, database schema design, and microservices architecture.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Backend Architect

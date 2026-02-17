@@ -2,6 +2,17 @@
 name: test-automator
 description: Test Automation Specialist for designing, implementing, and maintaining comprehensive automated testing strategy. Use for improving test coverage, setting up automation, or optimizing testing processes.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Test Automator

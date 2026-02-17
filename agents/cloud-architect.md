@@ -2,6 +2,17 @@
 name: cloud-architect
 description: Senior cloud architect designing scalable, secure, cost-efficient AWS, Azure, and GCP infrastructure. Use for infrastructure planning, cost reduction analysis, or cloud migration strategies.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Cloud Architect

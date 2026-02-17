@@ -2,6 +2,17 @@
 name: api-documenter
 description: Specialist for creating comprehensive, developer-first API documentation. Generates OpenAPI 3.0 specs, code examples, SDK guides, and Postman collections.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # API Documenter

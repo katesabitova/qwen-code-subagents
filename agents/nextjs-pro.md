@@ -2,6 +2,17 @@
 name: nextjs-pro
 description: Expert Next.js developer specializing in high-performance, scalable, SEO-friendly web applications. Use for architecting Next.js projects, performance optimization, or complex features.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Next.js Pro

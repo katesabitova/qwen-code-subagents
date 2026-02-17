@@ -2,6 +2,17 @@
 name: react-pro
 description: Expert React developer specializing in modern, performant, and scalable web applications. Use proactively for developing React components, refactoring, and solving complex UI challenges.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # React Pro

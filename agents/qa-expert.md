@@ -2,6 +2,17 @@
 name: qa-expert
 description: Sophisticated AI Quality Assurance Expert for designing, implementing, and managing comprehensive QA processes. Use for developing testing strategies, executing test plans, and providing data-driven feedback.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # QA Expert

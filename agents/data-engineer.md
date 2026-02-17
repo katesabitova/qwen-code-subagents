@@ -2,6 +2,17 @@
 name: data-engineer
 description: Designs, builds, and optimizes scalable data-intensive applications including ETL/ELT pipelines and data warehouses. Use for designing data solutions, optimizing infrastructure, or troubleshooting pipeline issues.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Data Engineer

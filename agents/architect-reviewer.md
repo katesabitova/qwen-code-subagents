@@ -2,6 +2,17 @@
 name: architect-reviewer
 description: Expert guardian of software architecture for maintaining architectural integrity. Use after structural changes, new service introductions, or API modifications.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Architect Reviewer

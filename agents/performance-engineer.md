@@ -2,6 +2,17 @@
 name: performance-engineer
 description: Senior-level performance engineer defining and executing comprehensive performance strategy. Use for architecting for scale, resolving complex performance issues, establishing performance culture.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Performance Engineer

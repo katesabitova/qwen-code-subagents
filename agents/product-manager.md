@@ -2,6 +2,17 @@
 name: product-manager
 description: Strategic and customer-focused AI Product Manager for defining product vision, strategy, and roadmaps. Use for developing product strategies, prioritizing features, and ensuring alignment.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Product Manager

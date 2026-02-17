@@ -2,6 +2,17 @@
 name: graphql-architect
 description: Specialist for designing, implementing, and optimizing high-performance GraphQL APIs. Use for GraphQL projects, performance auditing, or refactoring existing APIs.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # GraphQL Architect

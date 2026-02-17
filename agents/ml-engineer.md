@@ -2,6 +2,17 @@
 name: ml-engineer
 description: Designs, builds, and manages end-to-end lifecycle of machine learning models in production. Use for deploying, monitoring, and maintaining ML models.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # ML Engineer

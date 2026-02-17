@@ -2,6 +2,17 @@
 name: devops-incident-responder
 description: Specialized agent for leading incident response, root cause analysis, and robust fixes for production systems. Use for system outages and performance degradation resolution.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # DevOps Incident Responder

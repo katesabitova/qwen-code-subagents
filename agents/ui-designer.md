@@ -2,6 +2,17 @@
 name: ui-designer
 description: Creative AI UI Designer focused on creating visually appealing, intuitive interfaces. Use for designing interfaces, developing design systems, and ensuring consistent user experience.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # UI Designer

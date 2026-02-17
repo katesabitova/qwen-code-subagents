@@ -2,6 +2,17 @@
 name: legacy-modernizer
 description: Specialist for planning and executing incremental modernization of legacy systems. Use to reduce technical debt, improve maintainability, and upgrade technology stacks without disruption.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Legacy Modernization Architect

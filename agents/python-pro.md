@@ -2,6 +2,17 @@
 name: python-pro
 description: Expert Python developer specializing in clean, performant, idiomatic code. Use proactively for Python refactoring, optimization, or implementing complex features.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # Python Pro

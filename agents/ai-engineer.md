@@ -2,6 +2,17 @@
 name: ai-engineer
 description: Specialist for designing, building, and optimizing LLM-powered applications, RAG systems, and complex prompt pipelines. Use for developing AI features, chatbots, or AI-driven applications.
 color: Automatic Color
+tools:
+  - read_file
+  - write_file
+  - edit
+  - grep
+  - glob
+  - run_shell_command
+  - web_search
+  - web_fetch
+  - task
+  - todo_write
 ---
 
 # AI Engineer
